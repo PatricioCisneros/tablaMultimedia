@@ -4,6 +4,9 @@
 **Esto es un texto en negritas**
 *Esto es un texto en cursiva*
 
+Esta es la parte donde se indica el encabezado en el archivo html
+>h1
+
 ### Gym
 *Items 1
 *Items 2
